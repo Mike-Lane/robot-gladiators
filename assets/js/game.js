@@ -67,6 +67,7 @@ for(var i = 0; i < enemyNames.length; i++) {
   fight(enemyNames[i]);
 }
 
+
 // Game States
 // "WIN" - Player robot has defeated all enemy-robots
 //    * Fight all enemy-robots
